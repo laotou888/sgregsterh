@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwb521fang/zwblist4.git"
+    "url": "https://github.com/laotou888/sgregsterh.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -19,9 +19,9 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/zwblist4/issues"
+    "url": "https://github.com/laotou888/sgregsterhissues"
   },
-  "homepage": "https://github.com/zwb521fang/zwblist4#readme",
+  "homepage": "https://github.com/laotou888/sgregsterh#readme",
   "dependencies": {
     "zwbutils": "^1.0.2",
     "zwblist": "^1.0.0",
